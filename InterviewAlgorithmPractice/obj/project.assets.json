@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice.csproj",
-      "projectName": "InterviewAlgorithmPractice",
-      "projectPath": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice.csproj",
+      "projectUniqueName": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\StringManip.csproj",
+      "projectName": "StringManip",
+      "projectPath": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\StringManip.csproj",
       "packagesPath": "C:\\Users\\decag\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\obj\\",
       "projectStyle": "PackageReference",
