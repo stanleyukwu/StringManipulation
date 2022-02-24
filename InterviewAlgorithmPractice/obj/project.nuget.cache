@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCQmi2w2JW4RK7ZMnGGLxqaq/t79oxozr/7kZaMlaBgGF6fjhQnKcmstGNk2f6k8EryaOXJoIVfqBJA2NfxKdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\decag\\source\\repos\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice\\InterviewAlgorithmPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\decag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

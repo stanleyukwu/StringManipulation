@@ -1,0 +1,16 @@
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.exe
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.deps.json
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.runtimeconfig.json
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.runtimeconfig.dev.json
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.dll
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\ref\InterviewAlgorithmPractice.dll
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\bin\Debug\net5.0\InterviewAlgorithmPractice.pdb
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.csproj.AssemblyReference.cache
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.AssemblyInfo.cs
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.dll
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\ref\InterviewAlgorithmPractice.dll
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.pdb
+C:\Users\decag\source\repos\InterviewAlgorithmPractice\InterviewAlgorithmPractice\obj\Debug\net5.0\InterviewAlgorithmPractice.genruntimeconfig.cache
